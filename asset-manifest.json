@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/spacepups/static/css/main.ff3aa81b.css",
+    "main.js": "/spacepups/static/js/main.0c6f6639.js",
+    "static/js/787.28cb0dcd.chunk.js": "/spacepups/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/spacepups/index.html",
+    "main.ff3aa81b.css.map": "/spacepups/static/css/main.ff3aa81b.css.map",
+    "main.0c6f6639.js.map": "/spacepups/static/js/main.0c6f6639.js.map",
+    "787.28cb0dcd.chunk.js.map": "/spacepups/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff3aa81b.css",
+    "static/js/main.0c6f6639.js"
+  ]
+}
